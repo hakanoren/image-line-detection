@@ -3,9 +3,7 @@
 # Run
 python code.py
 
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://i.hizliresim.com/AXDem1.png)
+![Alt Text](https://i.hizliresim.com/AXDem1.png)
 
 
 # Twitter
