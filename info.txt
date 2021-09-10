@@ -1,0 +1,15 @@
+*I created this project for myself to learn how OpenCv works. It is an application that consists of quite a few lines of code. Another of my goals in creating this project was to understand how vehicle road tracking systems (Tesla Autopilot) follow lanes.
+
+*You can use this project wherever you want.
+
+*To run the project when you navigate to the directory where the project is located on the command line;
+
+**python3 code.py (Write the code to run.)
+
+*Programming by Hakan Ören
+
+** Social Media Accounts **
+İnstagram: https://instagram.com/hakanorens
+Personal WebSite: hakanoren.xyz
+Twitter: https://twitter.com/hakanorens
+YouTube: https://www.youtube.com/channel/UCNAlFonP41Ptc-fHxBiBEUQ
