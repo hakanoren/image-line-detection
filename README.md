@@ -1,5 +1,5 @@
-# İmage Lane Line Detection
-İmage lane line detection, road line detection
+# Image Lane Line Detection
+Image lane line detection, road line detection
 # Run
 python code.py
 
